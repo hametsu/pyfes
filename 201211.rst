@@ -89,9 +89,9 @@ Python を主に使っている人が多く参加しますが、ほとんど関�
 募集中
 ======
 
-- 一般枠 100
-- 女子枠 20
-- 遠方枠 5
+- 一般枠 120 http://connpass.com/event/952/
+- 女子枠 20 http://connpass.com/event/950/
+- 遠方枠 5 http://connpass.com/event/951/
 
 ステッカー配布について
 ======================
@@ -115,15 +115,17 @@ Python を主に使っている人が多く参加しますが、ほとんど関�
 
 GitHub にて Pull-Reuqest を送ってくるか Twitter でリプライをお願いします。
 
-時間は 20 分程度です。
+時間は 15 ~ 20 分程度です。
+
+発表者にはドタキャンの権利があるので発表がない可能性もあります。
 
 @tk0miya
 --------
 
-とてもおもしろいプレゼン(仮)
+とてもおもしろい話(仮)
 
-@IanMLewis
-----------
+@IanMLewis & @AE35
+------------------
 
 connpass ネタ(仮)
 
@@ -132,22 +134,79 @@ connpass ネタ(仮)
 
 ストレージネタ(仮)
 
+@turky
+------
+
+出版ネタ(仮)
+
+@shiumachi
+----------
+
+像じゃない面白い話(仮)
+
+@mass_cut
+---------
+
+Chef と Fabric(仮)
+
+@doryokujin
+-----------
+
+Python の分散処理フレームワーク(仮)
+
+@repeatedly
+-----------
+
+Tornado Web Server(仮)
+
+@cooldaemon
+-----------
+
+Python & Erlang & ソーシャルゲーム(仮)
+
+@methane
+-----------
+
+Python の深い話(仮)
+
+@golden_lucky
+--------------
+
+出版システムネタ(仮)
+
 定期プレゼン
 ============
 
-- @torufurukawa
-- @moriyoshi
-- @hiroki_ninuma
+@torufurukawa
+-------------
+
+Python 3.3 アップデート
+
+@moriyoshi
+----------
+
+未定
+
+@hiroki_ninuma
+--------------
+
+未定
 
 LT
 ==
 
 勉強会やら何やらの告知も歓迎ですよ、時間は 3~5 分程度です。
 
+@takabow
+--------
+
+本の宣伝
+
+
 ハンズオン
 ==========
 
-予定は未定
+初心者ハンズオンと Mercurial 以外はそろそろ卒業したいところではある
 
 あしながの会
 ============
@@ -161,7 +220,8 @@ LT
 集金は「当日」「現金」で @voluntas / @tokoroten / @blaue_fuchs にお渡し下さい。
 支援金は「当日」「現金」で本人に直接、渡します。
 
-@voluntas までリプライ下さい。
+以下に書き込んでください
+https://github.com/pyspa/pyfes/issues/25
 
 対象候補者
 ----------
@@ -174,5 +234,7 @@ LT
 - @itawasa: 3
 - @xga: 1
 - @aohta: 1
+- @turky: 1
 - @takano32: 1
+- @ransui: 2
 
